@@ -953,6 +953,13 @@
     },
     {
         "car_brand": "BMW 寶馬",
+        "car_type": "X5",
+        "car_year": "2019～",
+        "wiper_size": "26+20",
+        "wiper_cnet": "B2"
+    },    
+    {
+        "car_brand": "BMW 寶馬",
         "car_type": "X6",
         "car_year": "2007～2012",
         "wiper_size": "24+20",
